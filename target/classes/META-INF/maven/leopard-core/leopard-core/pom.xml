@@ -5,6 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>leopard-core</name>
   <description>core app</description>
+  <packaging>jar</packaging>
 <dependencies>
     <!--  Gson: Java to Json conversion -->
     <dependency>
